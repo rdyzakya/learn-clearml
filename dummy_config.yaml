@@ -1,0 +1,4 @@
+# This is a dummy config file for testing purposes
+n_heads: 8
+n_layers: 3
+d_model: 512
